@@ -5,6 +5,6 @@ hello Git
 hello Git
 hello Git
 hello Git
-hello Git
 hello Git master code
+hello Git hot-fix code
 hello Git hot-fix complete
